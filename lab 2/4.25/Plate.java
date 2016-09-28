@@ -1,3 +1,8 @@
+/* Ariele Silva
+ * Cmpt 220
+ * Prof. Rivas
+ * Lab 2
+ */
 public class Plate {
     static String[] INVALID = { "FOR", "AXE", "JAM", "JAB", "ZIP", "ARE", "YOU","JUG", "JAW", "JOY" };
     static String letters(int amount) {

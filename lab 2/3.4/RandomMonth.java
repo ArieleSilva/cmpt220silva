@@ -1,3 +1,8 @@
+/* Ariele Silva
+ * Cmpt 220
+ * Prof. Rivas
+ * Lab 2
+ */
 import java.util.Random;
 public class RandomMonth {
 	public static void main(String[] args) {
