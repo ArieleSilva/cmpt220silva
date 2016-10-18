@@ -1,5 +1,7 @@
+// == missing header
 import java.util.Scanner;
 public class CalculateTip {
+  // == tabs!!
 	public static void main(String[] args){
 		Scanner input = new Scanner(System.in);
 		System.out.print("Enter the subtotal and a gratuity rate: ");

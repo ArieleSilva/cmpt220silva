@@ -1,5 +1,7 @@
+// == missing header
 import java.util.Scanner;
 public class Grades {
+  // == tabs!
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
 			System.out.println("enter the following as percentages: ");
