@@ -1,0 +1,31 @@
+ * Ariele Silva
+ * Cmpt 220
+ * Prof. Rivas
+ * Lab 8
+ 
+ 11.10
+ 
+UML Diagram:
+
+ - ArrayList()
+ - add(o: Object): void
+ - add(index: int, o: Object): void
+ - clear(): void
+ - contains (o: Object): boolean
+ - get(index: int): Object
+ - indexOf(o: Object): int
+ - isEmpty(): boolean
+ - lastIndexOf(o: Object): boolean
+ - remove(o: Object): boolean
+ - size(): int
+ - remove(index: int): boolean
+ - set(index: int, o: Object): Object
+ - getSize() : int
+ - peek() : int
+ - pop() : Object
+ - push(Object o) : void
+ - toString() : string
+ 
+ 
+ 
+ - 
