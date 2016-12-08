@@ -1,7 +1,7 @@
 /* Ariele Silva
  * Cmpt 220
  * Prof. Rivas
- * Lab 3
+ * Lab 4
  */
 import java.util.Scanner;
 public class BubbleSort {
