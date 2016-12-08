@@ -63,7 +63,7 @@ public class CMPT220Project {
       System.out.println("Please enter 'yes' or 'no' to the following question");
       System.out.println("Have you attended more than half of the club's meetings?");
       String answer = input.next();
-      if (answer == "yes"){
+      if (answer.equals("yes")){
         System.out.println(clubs * 2 +" points");
         clubPoints += clubs * 2;
       }
@@ -86,7 +86,7 @@ public class CMPT220Project {
     System.out.println("Please enter 'yes' or 'no' to the following question");
     System.out.println("Are you involved in Marist College's Athletics?: ");
     String SportsAnswer = input.next();
-    if (SportsAnswer == "yes"){
+    if (SportsAnswer.equals("yes")){
       System.out.println("How many sports?");
       double sports = input.nextDouble();
       System.out.println(sports * 2 +" points");
@@ -99,7 +99,7 @@ public class CMPT220Project {
     System.out.println("Please enter 'yes' or 'no' to the following question");
     System.out.println("Are you involved in Marist College's Intramurals?: ");
     String iSportsAnswer = input.next();
-    if (iSportsAnswer == "yes"){
+    if (iSportsAnswer.equals("yes")){
       System.out.println("How many sports?");
       double isports = input.nextDouble();
       System.out.println(isports * 2 +" points");
@@ -112,7 +112,7 @@ public class CMPT220Project {
     System.out.println("Please enter 'yes' or 'no' to the following question");
     System.out.println("Do you have a Discipline History with Marist College this semster?");
     String historyAnswer = input.next();
-    if (historyAnswer == "yes"){
+    if (historyAnswer.equals("yes")){
       System.out.println(0 +" points");
       historyPoints += 0;
     }
