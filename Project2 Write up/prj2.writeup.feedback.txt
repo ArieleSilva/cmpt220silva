@@ -1,0 +1,4 @@
+40 pts
+
+The project is about calculating priority points. Very original idea.
+
